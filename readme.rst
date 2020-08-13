@@ -1,10 +1,10 @@
 Metal Support
 =======
-### Todo
-- [ ] Add an option for Metal in the settings menu
-- [ ] Port all the gl shaders to metal
-- [ ] Find out a way to use those ported shaders
-- [ ] Fix broken stuff
+TODO!
+* [ ] Add an option for Metal in the settings menu
+* [ ] Port all the gl shaders to metal
+* [ ] Find out a way to use those ported shaders
+* [ ] Fix broken stuff
 Pull requests are very very very very much appriciated. If you can, please help.
 I'm only currently planning to do cycles renderer at the moment. but if i can get cycles working i'll try do eevee.
 
