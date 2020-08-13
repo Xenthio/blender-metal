@@ -1,5 +1,6 @@
 Metal Support
 =======
+### Todo
 - [ ] Add an option for Metal in the settings menu
 - [ ] Port all the gl shaders to metal
 - [ ] Find out a way to use those ported shaders
